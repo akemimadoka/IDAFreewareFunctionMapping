@@ -8,7 +8,7 @@ IDAFreewareFunctionMapping
 可以使用命令行
 
 ```
-lib /def:ida.def /out:ida.lib /machine:x64
+lib /def:ida64.def /out:ida64.lib /machine:x64
 ```
 
 生成别名 lib，其他部分使用 IDA SDK 的原有部分即可
